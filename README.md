@@ -45,8 +45,8 @@ To point the hook at another server, set `BOT_CREATOR_MCP_URL`.
 
 ## Docs
 
-- MCP server: https://bot-creator.fr/docs/mcp
-- Bot Creator docs: https://bot-creator.fr/docs
+- MCP server: https://bot-creator.fr/docs/mcp/
+- Bot Creator docs: https://bot-creator.fr/docs/
 
 ## License
 

@@ -6,7 +6,7 @@
     "name": "ketsuna-org",
     "url": "https://github.com/ketsuna-org"
   },
-  "homepage": "https://bot-creator.fr/docs/mcp",
+  "homepage": "https://bot-creator.fr/docs/mcp/",
   "repository": "https://github.com/ketsuna-org/claude-plugin-bot-creator",
   "license": "MIT",
   "keywords": ["discord", "bot", "bot-creator", "bdfd", "blocks", "mcp"]

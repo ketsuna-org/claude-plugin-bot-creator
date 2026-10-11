@@ -11,6 +11,6 @@ Answer from the official Bot Creator documentation: $ARGUMENTS
    - the signature or params;
    - what it returns;
    - one minimal example;
-   - the doc slug: https://bot-creator.fr/docs/<slug>
+   - the doc slug: https://bot-creator.fr/docs/<slug>/
 
 If nothing matches, say so and suggest the closest results. Never invent a function.
