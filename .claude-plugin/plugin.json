@@ -6,10 +6,13 @@
     "name": "ketsuna-org",
     "url": "https://github.com/ketsuna-org"
   },
-  "homepage": "https://bot-creator.fr/docs/mcp/",
+  "homepage": "https://bot-creator.fr/",
+  "documentationUrl": "https://bot-creator.fr/docs/mcp/",
   "repository": "https://github.com/ketsuna-org/claude-plugin-bot-creator",
   "license": "MIT",
-  "privacyPolicyUrl": "https://bot-creator.fr/privacy-policy/",
+  "privacyPolicyUrl": "https://bot-creator.fr/privacy-policy",
+  "termsOfServiceUrl": "https://bot-creator.fr/plugin-terms",
+  "supportUrl": "https://bot-creator.fr/plugin-support",
   "keywords": [
     "discord",
     "bot",
