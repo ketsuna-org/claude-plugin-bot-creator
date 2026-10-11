@@ -1,0 +1,18 @@
+{
+  "name": "bot-creator",
+  "owner": {
+    "name": "ketsuna-org",
+    "url": "https://github.com/ketsuna-org"
+  },
+  "metadata": {
+    "description": "Official Claude Code plugins for Bot Creator (https://bot-creator.fr)."
+  },
+  "plugins": [
+    {
+      "name": "bot-creator",
+      "source": "./",
+      "description": "Design, validate and export Discord bot commands for Bot Creator (Blocks, BDFD and JavaScript).",
+      "category": "development"
+    }
+  ]
+}

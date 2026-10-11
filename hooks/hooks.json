@@ -1,0 +1,17 @@
+{
+  "description": "Validate Bot Creator Blocks actions in *.botcmd.json files after each write.",
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "command -v node >/dev/null 2>&1 || exit 0; node \"${CLAUDE_PLUGIN_ROOT}/scripts/validate-blocks.mjs\"",
+            "timeout": 15
+          }
+        ]
+      }
+    ]
+  }
+}

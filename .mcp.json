@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bot-creator": {
+      "type": "http",
+      "url": "https://bot-creator.fr/api/mcp"
+    }
+  }
+}

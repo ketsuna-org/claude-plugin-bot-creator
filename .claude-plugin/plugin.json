@@ -1,0 +1,13 @@
+{
+  "name": "bot-creator",
+  "version": "0.1.0",
+  "description": "Design, validate and export Discord bot commands for Bot Creator (Blocks, BDFD and JavaScript), backed by the official Bot Creator documentation MCP server.",
+  "author": {
+    "name": "ketsuna-org",
+    "url": "https://github.com/ketsuna-org"
+  },
+  "homepage": "https://bot-creator.fr/docs/mcp",
+  "repository": "https://github.com/ketsuna-org/claude-plugin-bot-creator",
+  "license": "MIT",
+  "keywords": ["discord", "bot", "bot-creator", "bdfd", "blocks", "mcp"]
+}
